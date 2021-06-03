@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of all the conspirators that have been seiz'd, (and where committed) since the discovery of the horrid and bloody plot, contriv'd by the phanaticks against the lives of His Majesty and His Royal Highness to which is annexed the names of the three late famous ignoramus juries, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48639</idno><idno type="EEBO-CITATION">12393028</idno>
+  <idno type="VID">61046</idno>
+  <idno type="EEBO-PROQUEST">2240936066</idno>
+  
+            <idno type="STC">Wing L2378</idno>
+            <idno type="STC">ESTC R15720</idno>
+            <idno type="OCLC">12393028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of all the conspirators that have been seiz'd, (and where committed) since the discovery of the horrid and bloody plot, contriv'd by the phanaticks against the lives of His Majesty and His Royal Highness to which is annexed the names of the three late famous ignoramus juries, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61046:1"/>
+            <head>A LIST OF ALL THE CONSPIRATORS That have been Seiz'd, (and where Committed) since the Discovery of the Horrid and Bloody PLOT, Contriv'd by the <hi>Phanaticks</hi> against the Lives of His MAJESTY and His ROYAL HIGHNESS. To which is Annexed, The Names of the Three late Famous <hi>Ignoramus Juries,</hi> &amp;c.</head>
+            <list>
+               <item>ARthur <hi>Earl of</hi> Essex, <hi>Cut his Throat in the</hi> Tower.</item>
+               <item>William <hi>Lord</hi> Russel, <hi>Beheaded in</hi> Linc. Inne-fields.</item>
+               <item>
+                  <hi>Capt.</hi> Tho. Walcot, <hi>Executed at</hi> Tyburn.</item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ohn Rowse, <hi>Executed at</hi> Tyburn.</item>
+               <item>William Hone <hi>Joyner Executed at</hi> Tyburn.</item>
+               <item>
+                  <hi>Captain</hi> William Blagg, <hi>Tryed, and Acquitted.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. Howard <hi>of</hi> Escrick <hi>In Custody at</hi> Whitehall,</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ol.</hi> John Rumsey, <hi>In Custody at</hi> Whitehall,</item>
+            </list>
+            <list>
+               <head>In Custody of Messengers.</head>
+               <item>Josiah Keeling, <hi>the first Discoverer,</hi>
+               </item>
+               <item>Zachariah Bourn,</item>
+               <item>
+                  <hi>Sir</hi> Hugh Cambel,</item>
+               <item>
+                  <hi>Sir</hi> George Cambel,</item>
+               <item>
+                  <hi>Mr.</hi> Leigh,</item>
+               <item>
+                  <hi>Mr.</hi> Lee <hi>a Dyer,</hi>
+               </item>
+               <item>Andrew Barber,</item>
+               <item>
+                  <hi>Mr.</hi> Hoskin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>‡ Francis Lascoe,</item>
+               <item>
+                  <hi>Mr.</hi> Pascal,</item>
+               <item>
+                  <hi>Mr.</hi> Hugh Westlack</item>
+               <item>Mr. Hugh Speke,</item>
+               <item>
+                  <hi>Mr.</hi> Grange <hi>Brewer,</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the <hi>Tower.</hi>
+               </head>
+               <item>Brandon <hi>L</hi> Gerrard</item>
+               <item>Algern. Sidney <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Hambden,</item>
+               <item>
+                  <hi>Major</hi> Wildman.</item>
+               <item>Fran. Charlton <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Trenchard,</item>
+               <item>
+                  <hi>Mr.</hi> Booth,</item>
+               <item>
+                  <hi>Major</hi> Bremon,</item>
+               <item>Aaron Smith,</item>
+               <item>Hen. Dearam <hi>who let the L.</hi> Gray <hi>escape.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the <hi>Gate-house.</hi>
+               </head>
+               <item>
+                  <hi>Abraham Holmes,</hi>
+               </item>
+               <item>
+                  <hi>Pincol</hi> a <hi>Scotch</hi> Mi<g ref="char:EOLhyphen"/>nister, and <hi>6</hi> Scotch Pedlers,</item>
+               <item>
+                  <hi>John Gibbons,</hi> D. of Monm. Foot-man,</item>
+               <item>
+                  <hi>Robert Bayley,</hi>
+               </item>
+               <item>
+                  <hi>Sam. Johnson,</hi> Au<g ref="char:EOLhyphen"/>thor of <hi>Julian</hi> the Apostate: <hi>Bailed.</hi>
+               </item>
+               <item>
+                  <hi>William Casteers</hi> a Scotch Preacher,</item>
+            </list>
+            <list>
+               <head>In the <hi>Marshalsea,</hi>
+               </head>
+               <item>
+                  <hi>Mr.</hi> Monroe,</item>
+               <item>
+                  <hi>Major</hi> Hume,</item>
+               <item>
+                  <hi>Mr.</hi> Robert West,</item>
+               <item>
+                  <hi>Mr.</hi> Butler, <hi>alias</hi> Spence,</item>
+               <item>Francis Frank,</item>
+               <item>Edw. Cole, <hi>Brewer,</hi>
+               </item>
+               <item>James Wood,</item>
+               <item>John Nisbet,</item>
+               <item>‡ John Armiger,</item>
+               <item>
+                  <hi>M.</hi> Bateman, Shafts<g ref="char:EOLhyphen"/>bury's <hi>Chyrurgeon.</hi>
+               </item>
+               <item>Robert Lock <hi>Master of the Ship which cary'd the L.</hi> Gray.</item>
+               <item>Noice, <hi>a Draper.</hi>
+               </item>
+            </list>
+            <p>The Names of those mention'd in His Majesty's Proclamations; together with those which are Fled from Justice.</p>
+            <list>
+               <head>The Names of those that are fled from Justice.</head>
+               <item>
+                  <hi>Duke of</hi> Monmouth,</item>
+               <item>Ford <hi>Lord</hi> Gray,</item>
+               <item>
+                  <hi>Sir</hi> Thomas Armstrong,</item>
+               <item>Edward Norton <hi>Esq;,</hi>
+               </item>
+               <item>Richard Nelthorp <hi>Esq;</hi>
+               </item>
+               <item>James Stiles <hi>Esq;</hi>
+               </item>
+               <item>Robert Ferguson,</item>
+               <item>Rich. Rumbold <hi>Malster,</hi>
+               </item>
+               <item>William Rumbold</item>
+               <item>Richard Goodenough,</item>
+               <item>Francis Goodenough,</item>
+               <item>James Burton, <hi>Cheesem.</hi>
+               </item>
+               <item>Nathaniel Wade,</item>
+               <item>William Thompson,</item>
+               <item>James Holloway <hi>Merch</hi>
+               </item>
+               <item>Joseph Elby,</item>
+               <item>Samuel Gibbs,</item>
+               <item>Joseph Tyley,</item>
+               <item>John Ayloff,</item>
+               <item>John Atherton <hi>Glasier,</hi>
+               </item>
+               <item>Stephen Lobb <hi>Preacher,</hi>
+               </item>
+               <item>John Row, <hi>late Sword-Bearer of</hi> Bristol.</item>
+            </list>
+            <list>
+               <head>For Apprehending</head>
+               <item>
+                  <hi>The D. of</hi> Monmouth 500 <hi>l.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Tho. Armstrong, 500 <hi>l.</hi>
+               </item>
+               <item>Ford <hi>Lord</hi> Gray, 500 <hi>l.</hi>
+               </item>
+               <item>Robert Ferguson. 500 <hi>l.</hi>
+               </item>
+            </list>
+            <list>
+               <head>For Apprehending</head>
+               <item>Rich. Nelthorp <hi>Esq;</hi> 100 <hi>l.</hi>
+               </item>
+               <item>William Thompson, 100 <hi>l.</hi>
+               </item>
+               <item>Rich. Goodenough, 100 <hi>l.</hi>
+               </item>
+               <item>Nathaniel Wade, 100 <hi>l.</hi>
+               </item>
+               <item>Rich. Rumbold 100 <hi>l.</hi>
+               </item>
+               <item>James Burton, 100 <hi>l.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of those that are under Bail.</head>
+               <item>
+                  <hi>Lord</hi> Lovelace</item>
+               <item>
+                  <hi>Sir</hi> Hen. Ingoldsby,</item>
+               <item>Matth Mead, <hi>alias</hi> Richardson,</item>
+               <item>
+                  <hi>Mr.</hi> Lands <hi>Barber,</hi>
+               </item>
+               <item>W. West <hi>Shoemaker.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> J. Borlace, <hi>acquit.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Shepherd <hi>Merc.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Freake,</item>
+               <item>Tho. Green <hi>In-keep.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Hunt <hi>Apothecary</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Shepherd <hi>E. of</hi> Shafts. <hi>servant,</hi>
+               </item>
+               <item>Isaack Butler.</item>
+            </list>
+            <list>
+               <head>The Names of those who are the Discoverers.</head>
+               <item>Josiah Keeling,</item>
+               <item>
+                  <hi>Colonel</hi> John Rumsey,</item>
+               <item>
+                  <hi>Mr. Thomas Shepherd</hi>
+               </item>
+               <item>
+                  <hi>Lord</hi> Howard <hi>of</hi> Escrick,</item>
+               <item>
+                  <hi>Mr.</hi> Robert West,</item>
+               <item>
+                  <hi>Mr.</hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Lee <hi>a Dyer.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the Conspirators who were Indicted <hi>July 12.</hi> with the number of Witnesses against each particular person, <hi>(viz.)</hi>
+               </head>
+               <item>
+                  <hi>Duke of</hi> Monmouth, 2</item>
+               <item>Ford <hi>Lord</hi> Gray, 2</item>
+               <item>
+                  <hi>Sir</hi> Thom. Armstrong, 2</item>
+               <item>Richard Nelthrop <hi>Esq;</hi> 3</item>
+               <item>Richard Rumbold, 4</item>
+               <item>Richard Goodenough, 4</item>
+               <item>Francis Goodenough, 4</item>
+               <item>Edward Norton <hi>Esq;</hi> 3</item>
+               <item>James Stiles <hi>Esq;</hi> 3</item>
+               <item>Robert Ferguson, 3</item>
+               <item>James Holloway, 3</item>
+               <item>James Burton <hi>Cheesem.</hi> 2</item>
+               <item>William Thompson, 2</item>
+               <item>Nathaniel Wade 3</item>
+            </list>
+            <pb facs="tcp:61046:2"/>
+            <list>
+               <head>The Names of the <hi>Grand Jury</hi> for the County of Middlesex, who without going from the Bar, found the Bill of Indictment against the Earl of <hi>Danby,</hi> upon the single Testimony of <hi>Ed. Fitz Harri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> in open Court, then a <hi>Prisoner</hi> at the Bar, and Arraign'd, afterwards Executed for high Treaso<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </head>
+               <item>
+                  <hi>Sir</hi> Will. Roberts <hi>of</hi> Wilsdon <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> William Cowper <hi>Baronet.</hi>
+               </item>
+               <item>Henry Herbert <hi>Esq;</hi>
+               </item>
+               <item>Edward Boscowen <hi>Esq;</hi>
+               </item>
+               <item>Thomas Barnardiston <hi>Esq;</hi>
+               </item>
+               <item>Thomas Henslow <hi>Esq;</hi>
+               </item>
+               <item>Walter Moyle <hi>Esq;</hi>
+               </item>
+               <item>Josias Clarke <hi>Esq;</hi>
+               </item>
+               <item>Thomas Austen <hi>Esq;,</hi>
+               </item>
+               <item>Thomas Marsh <hi>Esq;</hi>
+               </item>
+               <item>William Bourne <hi>Esq;</hi>
+               </item>
+               <item>Edward Hutchins <hi>gen:</hi>
+               </item>
+               <item>Joseph Ratcliffe <hi>gent.</hi>
+               </item>
+               <item>Crisp Grange <hi>gent.</hi>
+               </item>
+               <item>Henry Gerrard <hi>gent.</hi>
+               </item>
+               <item>Robert Breedon <hi>gent.</hi>
+               </item>
+               <item>George Page <hi>Gent.</hi>
+               </item>
+               <item>John Harwood <hi>Gent.</hi>
+               </item>
+               <item>John Raymond <hi>Gent.</hi>
+               </item>
+               <item>Christo. Dodsworth <hi>ge<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Henry Dealing <hi>Gent.</hi>
+               </item>
+               <item>Edward Watts <hi>Gent.</hi>
+               </item>
+               <item>Augustine Beare <hi>Gent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the <hi>Grand-Jury</hi> for <hi>Edward Fitz-harris.</hi>
+               </head>
+               <item>Michael Godfrey <hi>of</hi> Edmonton,</item>
+               <item>John Hill <hi>of</hi> Enfield,</item>
+               <item>William Hundow <hi>of</hi> Enfield <hi>Gent.</hi>
+               </item>
+               <item>Thomas Curtis <hi>of the same,</hi> Gent.</item>
+               <item>Elizeus Wyberd <hi>of the same,</hi> Gent.</item>
+               <item>John Reade <hi>of</hi> Totenham <hi>Gent.</hi>
+               </item>
+               <item>Jeremiah Benton <hi>of the same,</hi> Gent</item>
+               <item>John Young <hi>of</hi> Enfield, <hi>Gent.</hi>
+               </item>
+               <item>Edw. Johnson <hi>of</hi> South-Mims, <hi>Gen.</hi>
+               </item>
+               <item>John Page <hi>of</hi> Pinner, <hi>Gent.</hi>
+               </item>
+               <item>John Blott <hi>of</hi> Hendon, <hi>Gent.</hi>
+               </item>
+               <item>Francis Peters <hi>of</hi> Great Stanmore,</item>
+               <item>John Greenhil <hi>of</hi> Harrow o'th' Hill.</item>
+               <item>John Newman <hi>of the same,</hi> Gent.</item>
+               <item>Thomas Rance <hi>of the same,</hi> Gent.</item>
+               <item>John Bird <hi>of the same,</hi> Gent.</item>
+               <item>John Taylor <hi>of the same,</hi> Gent.</item>
+               <item>James Marsh <hi>of</hi> Hendon, <hi>Gent.</hi>
+               </item>
+               <item>John Todd <hi>of</hi> Pinner, <hi>Gent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the <hi>Pery-Jury</hi> for <hi>Edward Fitz-harris.</hi>
+               </head>
+               <item>Thomas Johnson <hi>of</hi> Mile-end, <hi>Esq;</hi>
+               </item>
+               <item>Lucy Knightly <hi>of</hi> Hackney, <hi>Gent.</hi>
+               </item>
+               <item>Ed. Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford <hi>jun.</hi> of <hi>Enfield,</hi> Gent.</item>
+               <item>Alexander Hosea <hi>of</hi> Hackney, <hi>gen.</hi>
+               </item>
+               <item>Martin James <hi>of</hi> Wapp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, <hi>Gent.</hi>
+               </item>
+               <item>John Vyner <hi>of</hi> Whitechappel, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en.</hi>
+               </item>
+               <item>William Withers <hi>of</hi> Cripplegate,</item>
+               <item>* <hi>William Cleive</hi> of the same, <hi>honest</hi>
+               </item>
+               <item>Thomas Goffe <hi>of</hi> Stepney,</item>
+               <item>Ralph Far <hi>of the same.</hi>
+               </item>
+               <item>Samuel Freebody <hi>of</hi> St. John-street,</item>
+               <item>John Lockyer <hi>of</hi> Westminster.</item>
+            </list>
+            <list>
+               <head>The Names of the <hi>Grand-Jury</hi> for <hi>Stephen Colledge</hi> the Joyner.</head>
+               <item>John Wilmore, <hi>Leather-seller.</hi>
+               </item>
+               <item>Will. Mackley, <hi>Strong-water-man.</hi>
+               </item>
+               <item>Sampson Puller, <hi>Taylor.</hi>
+               </item>
+               <item>Thomas Cope, <hi>Ʋpholster,</hi>
+               </item>
+               <item>Peter Mortimer, <hi>Confectioner,</hi>
+               </item>
+               <item>John Wood, <hi>Brasier,</hi>
+               </item>
+               <item>Thomas Haynes, <hi>Carpenter.</hi>
+               </item>
+               <item>Thomas Fox, <hi>Apothecary.</hi>
+               </item>
+               <item>John Read, <hi>Milliner.</hi>
+               </item>
+               <item>Mark Stretton, <hi>Apothecary.</hi>
+               </item>
+               <item>Edward Powel, <hi>Book-binder.</hi>
+               </item>
+               <item>Paul Dorrel, <hi>Servant to the Coun<g ref="char:EOLhyphen"/>tess of</hi> Exeter, <hi>No Free-man.</hi>
+               </item>
+               <item>* Francis Lascoe, <hi>Druggist,</hi>
+               </item>
+               <item>* John Armiger, <hi>Shooe-maker.</hi>
+               </item>
+               <item>Samuel Totton, <hi>Mercer.</hi>
+               </item>
+               <item>John Pettit, <hi>Woolen-Draper.</hi>
+               </item>
+               <item>Samuel Maine, <hi>Linnen-Draper.</hi>
+               </item>
+               <item>Caleb Hooke, <hi>Merchant.</hi>
+               </item>
+               <item>Robert Davies, <hi>Apothecary.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the <hi>Grand-Jury</hi> for <hi>John Rouse.</hi>
+               </head>
+               <item>James Denew</item>
+               <item>John Elwick,</item>
+               <item>Thomas Shaw.</item>
+               <item>Richard Tilden.</item>
+               <item>William Carbonel.</item>
+               <item>Josias Smith.</item>
+               <item>Joseph Jackson.</item>
+               <item>Samuel Crisp.</item>
+               <item>Humphrey Rogers.</item>
+               <item>John Showel.</item>
+               <item>John Loggins.</item>
+               <item>Edmond Shermon.</item>
+               <item>John Hamond.</item>
+               <item>Joseph Web.</item>
+               <item>Peter Essington.</item>
+               <item>John Newton.</item>
+               <item>Isaack Delillers.</item>
+               <item>Samuel Round.</item>
+               <item>Henry Weade.</item>
+            </list>
+            <list>
+               <head>The Names of the <hi>Grand-Jury</hi> for the Earl of <hi>Shaftsbury.</hi>
+               </head>
+               <item>
+                  <hi>Sir</hi> Samuel Barnardiston.</item>
+               <item>John Morden.</item>
+               <item>* Thomas Papillion.</item>
+               <item>* John Dubois.</item>
+               <item>Charles Hearle.</item>
+               <item>Edward Rudge.</item>
+               <item>Humphrey Edwin.</item>
+               <item>John Morrice.</item>
+               <item>Edmond Harrison.</item>
+               <item>Joseph Wright.</item>
+               <item>John Cox.</item>
+               <item>Thomas Parker.</item>
+               <item>Leonard Robinson.</item>
+               <item>* <hi>Thomas Shepherd,</hi> Merch. now a Discoverer.</item>
+               <item>John Flavel.</item>
+               <item>* Michael Godfrey:</item>
+               <item>Joseph Richardson.</item>
+               <item>William Empson.</item>
+               <item>Andrew Kendrick.</item>
+               <item>John Lane.</item>
+               <item>John Hall.</item>
+            </list>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>The Presentment of the <hi>Grand-Jury</hi> at the Assizes held at <hi>Northampton,</hi> July <hi>17. 1683.</hi>
+                        </head>
+                        <p>WE the <hi>Grand-Jury</hi> sworn to enquire for the Body of the Country of <hi>Northampton</hi> at the Assizes held at <hi>Northampton</hi> for the said County, <hi>&amp;c.</hi> Have with great Horrour and Detestation receiv'd an ac<g ref="char:EOLhyphen"/>count of the most Impious and Bloody Conspiracy against the persons of His most Sacred Majesty, and hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Royal Brother, which (thanks be to God,) He, by his providential Care has prevented, and brought to ligh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> their Hel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ish purposes; And not knowing how far their wicked Designs may proceed, We held it our Dut<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> in this juncture of Affairs, to present, that we have strong apprehensions of great Danger from a dissaffecte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> party in this County, who d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d openly shew their <hi>Principles,</hi> by presenting a Seditious <hi>Address</hi> to <hi>Miles Fleet<g ref="char:EOLunhyphen"/>wood</hi> and <hi>John Parkhurst</hi> Esq; at the last Election of Knights of the Shire, tending to the alteration of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <hi>Succession</hi> of the Crown, and an Intended <hi>Association</hi> in it to that purpose; with an assurance that they woul<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> stand by them with their Lives and Fortunes, without any regard or notice taken of the Kings Authority or their <hi>Allegiance</hi> or Duty towards their Sovereign And having observ'd, that since that time, they hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> had and held several <hi>Meetings, Clubs</hi> and <hi>Cabals,</hi> which We cannot but think was to carry on the said purpo<g ref="char:EOLunhyphen"/>ses, and oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r dangerous Designs against the Government; and their Discourses being <hi>notoriously bold,</hi> an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> their <hi>Party</hi> generally furnisht with a proportion of <hi>Arms</hi> rather for some <hi>Dangerous Designs,</hi> than for the u<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> of <hi>Private Persons,</hi> which, upon Search could not be found, but were hid and conceal'd. We therefore <hi>Pr<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nt</hi> it very Expedient and Necessary for securing the <hi>Peace</hi> of this County, that all <hi>Ill-affected Persons</hi> ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> give Security for the <hi>Peace,</hi> and particularly,</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Ralph Mountague</hi> Esq;</item>
+                                 <item>Sir <hi>William Langham.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Harbord.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Thornton</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Nicholas Butler.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Rushton</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Miles Fleetwood.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Charles Fleetwood.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Parkhurst.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edward Stratford.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edward Hopkins.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Haslerig.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Francis Arun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>el.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Francis Grans</hi>
+                                 </item>
+                                 <item>Sir <hi>William raven</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>athiel Lovel.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Coombs.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Colthurst</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edw. Knighton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Barth. Manning.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Welden</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Gerrard Gore.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Stratford.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Bridges.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Freeman</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Allen.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Arthur Brooks.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Hinde.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Luke Aburne.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Francis St John</hi> of <hi>Longthrop</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Matth. Orliber.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Fane Denny.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Mansel.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Jo. Craddock.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Lee.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Samuel Ekins.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Francis Morgan</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Catesby.</hi>
+                                 </item>
+                                 <item>Sir <hi>Tho. Samwel</hi>
+                                 </item>
+                                 <item>Sir <hi>Sam. Clarke</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Whitthorne</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Tate.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Andrews.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tobias Chancy</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Wilmore.</hi>
+                                 </item>
+                                 <item>Capt. <hi>Ashby</hi> of <hi>Bugbrook.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edward Pier<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>.</hi>
+                                 </item>
+                                 <item>Rector of <hi>Cot<g ref="char:EOLhyphen"/>tesbrook.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Selby.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Lucas.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Ivory.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Lisle.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <p>To which Presentment as abovesaid, We the said <hi>Grand Jury</hi> have subscribed our Names as follows, <hi>(viz.)</hi>
+                           </p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>John Egerton <hi>Bar.</hi>
+                                    </item>
+                                    <item>Lewis Palmer <hi>Bar.</hi>
+                                    </item>
+                                    <item>Goddard Pemberton</item>
+                                    <item>Thomas Elmes.</item>
+                                    <item>John Needham.</item>
+                                    <item>Henry Benson.</item>
+                                    <item>Moses Barhurst <hi>Esq;</hi>
+                                    </item>
+                                    <item>Nich. Steward <hi>Esq;</hi>
+                                    </item>
+                                    <item>Harvy Eakins <hi>Esq;</hi>
+                                    </item>
+                                    <item>Will. Randolph <hi>gen.</hi>
+                                    </item>
+                                    <item>Rich. Plowman <hi>gen.</hi>
+                                    </item>
+                                    <item>Rich. Wicks <hi>gent.</hi>
+                                    </item>
+                                    <item>Edw. Ladkin <hi>gent.</hi>
+                                    </item>
+                                    <item>W. Bateman <hi>gent.</hi>
+                                    </item>
+                                    <item>Anthon. Gibs <hi>gen.</hi>
+                                    </item>
+                                    <item>Tho Woodward <hi>
+                                          <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap>ent.</hi>
+                                    </item>
+                                    <item>William Cutbert <hi>
+                                          <gap reason="illegible" resp="#keyers" extent="2 letters">
+                                             <desc>••</desc>
+                                          </gap>nt.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
